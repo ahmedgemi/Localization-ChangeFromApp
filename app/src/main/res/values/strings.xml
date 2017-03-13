@@ -1,0 +1,10 @@
+<resources>
+
+
+    <string name="app_name">Localization_v2</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="signin">SignIn</string>
+
+
+</resources>
